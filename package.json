@@ -1,0 +1,26 @@
+{
+  "name": "@malianyi36/fakepackagesource",
+  "version": "0.0.1",
+  "description": "a fake package associated with Github repo geicolab/FakePackageSource.git",
+  "main": "C:\\dev\\FakePackageSource\\index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malianyi36/FakePackageSource.git"
+  },
+  "keywords": [
+    "fake",
+    "package"
+  ],
+  "author": "malianyi36@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malianyi36/FakePackageSource/issues"
+  },
+  "homepage": "https://github.com/malianyi36/FakePackageSource#readme",
+  "publishConfig": {
+    "@geicolab:registry": "https://npm.pkg.github.com"
+  }
+}
